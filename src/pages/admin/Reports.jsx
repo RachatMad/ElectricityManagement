@@ -7,8 +7,8 @@ const Reports = () => {
       animate={{ opacity: 1 }}
       className="text-center py-20"
     >
-      <h1 className="text-3xl font-bold text-gray-900 mb-4">Reports & Analytics</h1>
-      <p className="text-gray-600">Coming soon...</p>
+      <h1 className="text-3xl font-bold text-white mb-4">Reports & Documentation</h1>
+      <p className="text-gray-400">Comprehensive reporting system coming soon...</p>
     </motion.div>
   );
 };
